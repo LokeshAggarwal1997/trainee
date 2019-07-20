@@ -1,0 +1,4 @@
+sbt
+reload
+set scalaVersion := "2.12.7"
+reload
